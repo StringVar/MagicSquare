@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1300"
+   height="1300"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="12x12 Most Perfect.svg"
+   inkscape:export-filename="C:\Users\Cameron\OneDrive\Projects\Magic Squares\Fixed SVG\12x12 Most Perfect.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5342"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DotL">
+      <path
+         transform="scale(0.8) translate(7.4, 1)"
+         style="fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;stroke-opacity:1;fill:#ffffff;fill-opacity:1"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         id="path5344" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5272"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DotL">
+      <path
+         transform="scale(0.8) translate(7.4, 1)"
+         style="fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;stroke-opacity:1;fill:#ffffff;fill-opacity:1"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         id="path5274" />
+    </marker>
+    <marker
+       inkscape:stockid="DotL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DotL"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path4235"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) translate(7.4, 1)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4174"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Tail"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Tail"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <g
+         id="g4210"
+         transform="scale(-1.2)"
+         style="stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1">
+        <path
+           id="path4212"
+           d="M -3.8048674,-3.9585227 L 0.54352094,0"
+           style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round;stroke-opacity:1;fill-opacity:1" />
+        <path
+           id="path4214"
+           d="M -1.2866832,-3.9585227 L 3.0617053,0"
+           style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round;stroke-opacity:1;fill-opacity:1" />
+        <path
+           id="path4216"
+           d="M 1.3053582,-3.9585227 L 5.6537466,0"
+           style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round;stroke-opacity:1;fill-opacity:1" />
+        <path
+           id="path4218"
+           d="M -3.8048674,4.1775838 L 0.54352094,0.21974226"
+           style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round;stroke-opacity:1;fill-opacity:1" />
+        <path
+           id="path4220"
+           d="M -1.2866832,4.1775838 L 3.0617053,0.21974226"
+           style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round;stroke-opacity:1;fill-opacity:1" />
+        <path
+           id="path4222"
+           d="M 1.3053582,4.1775838 L 5.6537466,0.21974226"
+           style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round;stroke-opacity:1;fill-opacity:1" />
+      </g>
+    </marker>
+    <marker
+       inkscape:stockid="CurvyCross"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="CurvyCross"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <g
+         id="g4364"
+         transform="scale(0.6)"
+         style="stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1">
+        <path
+           id="path4366"
+           d="M 4.6254930,-5.0456926 C 1.8654930,-5.0456926 -0.37450702,-2.8056926 -0.37450702,-0.045692580 C -0.37450702,2.7143074 1.8654930,4.9543074 4.6254930,4.9543074"
+           style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill-opacity:1" />
+        <path
+           id="path4368"
+           d="M -5.4129913,-5.0456926 C -2.6529913,-5.0456926 -0.41299131,-2.8056926 -0.41299131,-0.045692580 C -0.41299131,2.7143074 -2.6529913,4.9543074 -5.4129913,4.9543074"
+           style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill-opacity:1" />
+      </g>
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1536"
+     inkscape:window-height="801"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="0.51346831"
+     inkscape:cx="-81.738759"
+     inkscape:cy="656.69649"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <g
+     stroke="black"
+     stroke-width="3"
+     fill="black"
+     id="g4" />
+  <path
+     pathLength="144"
+     d=" M 600 700 L 1100 100 L 1200 800 L 500 200 L 600 1100 L 1100 500 L 200 700 L 900 100 L 800 800 L 300 200 L 200 1100 L 900 500 L 700 100 L 400 700 L 100 200 L 1000 800 L 700 500 L 400 1100 L 1000 700 L 100 100 L 400 800 L 700 200 L 1000 1100 L 100 500 L 300 100 L 800 700 L 900 200 L 200 800 L 300 500 L 800 1100 L 500 100 L 1200 700 L 1100 200 L 600 800 L 500 500 L 1200 1100 L 1200 1000 L 500 400 L 1200 1200 L 500 600 L 600 900 L 1100 300 L 800 1000 L 300 400 L 800 1200 L 300 600 L 200 900 L 900 300 L 100 400 L 1000 1000 L 100 600 L 1000 1200 L 700 300 L 400 900 L 400 1000 L 700 400 L 400 1200 L 700 600 L 1000 900 L 100 300 L 900 400 L 200 1000 L 900 600 L 200 1200 L 300 300 L 800 900 L 1100 400 L 600 1000 L 1100 600 L 600 1200 L 500 300 L 1200 900 L 600 300 L 1100 900 L 1200 600 L 500 1200 L 1200 400 L 500 1000 L 200 300 L 900 900 L 800 600 L 300 1200 L 800 400 L 300 1000 L 700 900 L 400 300 L 100 1200 L 1000 600 L 100 1000 L 1000 400 L 1000 300 L 100 900 L 400 600 L 700 1200 L 400 400 L 700 1000 L 300 900 L 800 300 L 900 1200 L 200 600 L 900 1000 L 200 400 L 500 900 L 1200 300 L 1100 1200 L 600 600 L 1100 1000 L 600 400 L 600 500 L 1100 1100 L 1200 200 L 500 800 L 600 100 L 1100 700 L 200 500 L 900 1100 L 800 200 L 300 800 L 200 100 L 900 700 L 700 1100 L 400 500 L 100 800 L 1000 200 L 700 700 L 400 100 L 1000 500 L 100 1100 L 400 200 L 700 800 L 1000 100 L 100 700 L 300 1100 L 800 500 L 900 800 L 200 200 L 300 700 L 800 100 L 500 1100 L 1200 500 L 1100 800 L 600 200 L 500 700 L 1200 100"
+     id="path6" />
+  <path
+     inkscape:connector-curvature="0"
+     pathLength="144"
+     d="M 599.99998,700 1100,100 1200,800 499.99998,200 l 100,900 L 1100,500 200,700 899.99998,100 l -100,700 L 300,200 200,1100 899.99998,500 699.99998,100 400,700 100,200 999.99998,800 699.99998,500 400,1100 999.99998,700 100,100 400,800 699.99998,200 l 300,900 L 100,500 300,100 l 499.99998,600 100,-500 L 200,800 300,500 799.99998,1100 499.99998,100 1200,700 1100,200 599.99998,800 499.99998,500 1200,1100 1200,1000 499.99998,400 1200,1200 499.99998,600 l 100,300 L 1100,300 799.99998,1000 300,400 799.99998,1200 300,600 200,900 899.99998,300 100,400 999.99998,1000 100,600 l 899.99998,600 -300,-900 L 400,900 400,1000 699.99998,400 400,1200 699.99998,600 l 300,300 L 100,300 899.99998,400 200,1000 899.99998,600 200,1200 300,300 799.99998,900 1100,400 599.99998,1000 1100,600 599.99998,1200 499.99998,300 1200,900 599.99998,300 1100,900 1200,600 499.99998,1200 1200,400 499.99998,1000 200,300 899.99998,900 799.99998,600 300,1200 799.99998,400 300,1000 699.99998,900 400,300 100,1200 999.99998,600 100,1000 999.99998,400 l 0,-100 L 100,900 400,600 699.99998,1200 400,400 699.99998,1000 300,900 799.99998,300 l 100,900 L 200,600 899.99998,1000 200,400 499.99998,900 1200,300 1100,1200 599.99998,600 1100,1000 599.99998,400 l 0,100 L 1100,1100 1200,200 499.99998,800 l 100,-700 L 1100,700 200,500 l 699.99998,600 -100,-900 L 300,800 200,100 l 699.99998,600 -200,400 L 400,500 100,800 999.99998,200 l -300,500 L 400,100 999.99998,500 100,1100 400,200 l 299.99998,600 300,-700 L 100,700 l 200,400 499.99998,-600 100,300 L 200,200 300,700 799.99998,100 l -300,1000 L 1200,500 1100,800 599.99998,200 l -100,500 L 1200,100"
+     id="path6-4"
+     style="fill:none;stroke:#ffffff;stroke-opacity:1;stroke-width:8.125;stroke-miterlimit:60;stroke-dasharray:none;marker-start:url(#marker5272);marker-end:url(#marker5342)" />
+  <path
+     inkscape:connector-curvature="0"
+     pathLength="144"
+     d="M 600,700 1100,100 1200,800 500,200 600,1100 1100,500 200,700 900,100 800,800 300,200 200,1100 900,500 700,100 400,700 100,200 1000,800 700,500 400,1100 1000,700 100,100 400,800 700,200 1000,1100 100,500 300,100 800,700 900,200 200,800 300,500 800,1100 500,100 1200,700 1100,200 600,800 500,500 l 700,600 0,-100 L 500,400 1200,1200 500,600 600,900 1100,300 800,1000 300,400 800,1200 300,600 200,900 900,300 100,400 1000,1000 100,600 1000,1200 700,300 400,900 400,1000 700,400 400,1200 700,600 1000,900 100,300 900,400 200,1000 900,600 200,1200 300,300 800,900 1100,400 600,1000 1100,600 600,1200 500,300 1200,900 600,300 1100,900 1200,600 500,1200 1200,400 500,1000 200,300 900,900 800,600 300,1200 800,400 300,1000 700,900 400,300 100,1200 1000,600 100,1000 1000,400 1000,300 100,900 400,600 700,1200 400,400 700,1000 300,900 800,300 900,1200 200,600 900,1000 200,400 500,900 1200,300 1100,1200 600,600 1100,1000 600,400 600,500 1100,1100 1200,200 500,800 600,100 1100,700 200,500 900,1100 800,200 300,800 200,100 900,700 700,1100 400,500 100,800 1000,200 700,700 400,100 1000,500 100,1100 400,200 700,800 1000,100 100,700 300,1100 800,500 900,800 200,200 300,700 800,100 500,1100 1200,500 1100,800 600,200 500,700 1200,100"
+     id="path6-9"
+     style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:2.5;stroke-miterlimit:4;stroke-dasharray:none;marker-start:url(#DotL);marker-end:url(#DotL)" />
+</svg>

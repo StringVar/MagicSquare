@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="900"
+   height="900"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="8x8 - Mercury=260.svg"
+   inkscape:export-filename="C:\Users\Cameron\OneDrive\Projects\Magic Squares\Fixed SVG\Pldaadsfa\8x8 - Mercury=260.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10">
+    <marker
+       inkscape:stockid="DotL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DotL"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4220"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) translate(7.4, 1)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1536"
+     inkscape:window-height="801"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="0.74167645"
+     inkscape:cx="-54.757975"
+     inkscape:cy="652.23937"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <g
+     stroke="black"
+     stroke-width="3"
+     fill="black"
+     id="g4" />
+  <path
+     pathLength="64"
+     d=" M 100 800 L 800 200 L 800 300 L 100 500 L 100 400 L 800 600 L 800 700 L 100 100 L 700 100 L 200 700 L 200 600 L 700 400 L 700 500 L 200 300 L 200 200 L 700 800 L 600 100 L 300 700 L 300 600 L 600 400 L 600 500 L 300 300 L 300 200 L 600 800 L 400 800 L 500 200 L 500 300 L 400 500 L 400 400 L 500 600 L 500 700 L 400 100 L 500 800 L 400 200 L 400 300 L 500 500 L 500 400 L 400 600 L 400 700 L 500 100 L 300 100 L 600 700 L 600 600 L 300 400 L 300 500 L 600 300 L 600 200 L 300 800 L 200 100 L 700 700 L 700 600 L 200 400 L 200 500 L 700 300 L 700 200 L 200 800 L 800 800 L 100 200 L 100 300 L 800 500 L 800 400 L 100 600 L 100 700 L 800 100"
+     id="path6" />
+  <path
+     inkscape:connector-curvature="0"
+     pathLength="64"
+     d="m 100,800 700,-600 0,100 -700,200 0,-100 700,200 0,100 -700,-600 600,0 -500,600 0,-100 500,-200 0,100 -500,-200 0,-100 500,600 -100,-700 -300,600 0,-100 300,-200 0,100 -300,-200 0,-100 300,600 -200,0 100,-600 0,100 -100,200 0,-100 100,200 0,100 -100,-600 100,700 -100,-600 0,100 100,200 0,-100 -100,200 0,100 100,-600 -200,0 300,600 0,-100 -300,-200 0,100 300,-200 0,-100 -300,600 -100,-700 500,600 0,-100 -500,-200 0,100 500,-200 0,-100 -500,600 600,0 -700,-600 0,100 700,200 0,-100 -700,200 0,100 700,-600"
+     id="path6-8"
+     style="fill:none;stroke:#ffffff;stroke-opacity:1;stroke-width:8.125;stroke-miterlimit:4;stroke-dasharray:none" />
+  <path
+     inkscape:connector-curvature="0"
+     pathLength="64"
+     d="m 100,800 700,-600 0,100 -700,200 0,-100 700,200 0,100 -700,-600 600,0 -500,600 0,-100 500,-200 0,100 -500,-200 0,-100 500,600 -100,-700 -300,600 0,-100 300,-200 0,100 -300,-200 0,-100 300,600 -200,0 100,-600 0,100 -100,200 0,-100 100,200 0,100 -100,-600 100,700 -100,-600 0,100 100,200 0,-100 -100,200 0,100 100,-600 -200,0 300,600 0,-100 -300,-200 0,100 300,-200 0,-100 -300,600 -100,-700 500,600 0,-100 -500,-200 0,100 500,-200 0,-100 -500,600 600,0 -700,-600 0,100 700,200 0,-100 -700,200 0,100 700,-600"
+     id="path6-4"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:2.5;stroke-miterlimit:4;stroke-dasharray:none;marker-start:url(#DotL);marker-end:url(#DotL);stroke-linejoin:round;stroke-linecap:round" />
+</svg>
