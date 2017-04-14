@@ -4,15 +4,9 @@ Magic Squares by Cameron White Copyright 2017
 Magic Squares are nothing new however they create beautiful patterns when paired
 with a vector image format that makes them so crisp.
 
-#+ATTR_HTML: :style margin-left: auto; margin-right: auto;
-[[\Rendered PNG\Agrippa's magic squares\3x3 - Saturn=15.png]]
-
-#+ATTR_HTML: :style margin-left: auto; margin-right: auto;
-[[\SVG\Agrippa's magic squares\3x3 - Saturn=15.svg]]
 
 
-
-In about 1510 Heinrich Cornelius Agrippa wrote De Occulta Philosophia, drawing 
+In about 1510 Heinrich Cornelius Agrippa wrote [[https://en.wikipedia.org/wiki/Three_Books_of_Occult_Philosophy][De Occulta Philosophia]], drawing 
 on the Hermetic and magical works of Marsilio Ficino and Pico della Mirandola. 
 In its 1531 edition, he expounded on the magical virtues of the seven magical 
 squares of orders 3 to 9, each associated with one of the astrological planets, 
@@ -21,4 +15,32 @@ throughout Europe until the counter-reformation, and Agrippa's magic squares,
 sometimes called kameas, continue to be used within modern ceremonial magic in
 much the same way as he first prescribed.
 
+Saturn Magic Square
+#+ATTR_HTML: :style margin-left: auto; margin-right: auto;
+[[\Rendered PNG\Agrippa's magic squares\3x3 - Saturn=15.png]]
+
+
+Jupiter Magic Square
+#+ATTR_HTML: :style margin-left: auto; margin-right: auto;
+[[\Rendered PNG\Agrippa's magic squares\4x4 - Jupiter=34.png]]
+
+Mars Magic Square
+#+ATTR_HTML: :style margin-left: auto; margin-right: auto;
+[[\Rendered PNG\Agrippa's magic squares\5x5 - Mars=65.png]]
+
+Sun Magic Square
+#+ATTR_HTML: :style margin-left: auto; margin-right: auto;
+[[\Rendered PNG\Agrippa's magic squares\6x6 - Sol=111.png]]
+
+Venus Magic Square
+#+ATTR_HTML: :style margin-left: auto; margin-right: auto;
+[[\Rendered PNG\Agrippa's magic squares\7x7 - Venus=175.png]]
+
+Mercury Magic Square
+#+ATTR_HTML: :style margin-left: auto; margin-right: auto;
+[[\Rendered PNG\Agrippa's magic squares\8x8 - Mercury=260.png]]
+
+Luna Magic Square
+#+ATTR_HTML: :style margin-left: auto; margin-right: auto;
+[[\Rendered PNG\Agrippa's magic squares\9x9 - Luna=369.png]]
 
