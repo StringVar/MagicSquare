@@ -1,0 +1,17 @@
+
+Magic Squares by Cameron White Copyright 2017
+
+Magic Squares are nothing new however they create beautiful patterns when paired
+with a vector image format that makes them so crisp.
+#+NAME: fig [[file:Rendered PNG\Agrippa's magic squares\3x3 - Saturn=15.png]]
+
+In about 1510 Heinrich Cornelius Agrippa wrote De Occulta Philosophia, drawing 
+on the Hermetic and magical works of Marsilio Ficino and Pico della Mirandola. 
+In its 1531 edition, he expounded on the magical virtues of the seven magical 
+squares of orders 3 to 9, each associated with one of the astrological planets, 
+much in the same way as the older texts did. This book was very influential 
+throughout Europe until the counter-reformation, and Agrippa's magic squares,
+sometimes called kameas, continue to be used within modern ceremonial magic in
+much the same way as he first prescribed.
+
+
