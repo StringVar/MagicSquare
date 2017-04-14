@@ -7,6 +7,11 @@ with a vector image format that makes them so crisp.
 #+ATTR_HTML: :style margin-left: auto; margin-right: auto;
 [[\Rendered PNG\Agrippa's magic squares\3x3 - Saturn=15.png]]
 
+#+ATTR_HTML: :style margin-left: auto; margin-right: auto;
+[[\SVG\Agrippa's magic squares\3x3 - Saturn=15.png]]
+
+
+
 In about 1510 Heinrich Cornelius Agrippa wrote De Occulta Philosophia, drawing 
 on the Hermetic and magical works of Marsilio Ficino and Pico della Mirandola. 
 In its 1531 edition, he expounded on the magical virtues of the seven magical 
