@@ -42,6 +42,5 @@ Mercury Magic Square
 
 Luna Magic Square
 #+ATTR_HTML: :style margin-left: auto; margin-right: auto;
-
-.\Rendered PNG\Agrippa's magic squares\9x9 - Luna=369.png
+[[.\Rendered PNG\Agrippa's magic squares\9x9 - Luna=369.png]]
 
