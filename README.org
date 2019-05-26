@@ -1,5 +1,6 @@
 
-Magic Squares by Cameron White Copyright 2017
+* Magic Squares 
+by Cameron White Copyright 2017
 
 Magic Squares are nothing new however they create beautiful patterns when paired
 with a vector image format that makes them so crisp.
@@ -15,32 +16,34 @@ throughout Europe until the counter-reformation, and Agrippa's magic squares,
 sometimes called kameas, continue to be used within modern ceremonial magic in
 much the same way as he first prescribed.
 
-Saturn Magic Square
+* Saturn Magic Square
 #+ATTR_HTML: :style margin-left: auto; margin-right: auto;
 [[.\Rendered PNG\Agrippa's magic squares\3x3 - Saturn=15.png]]
 
 
-Jupiter Magic Square
+* Jupiter Magic Square
 #+ATTR_HTML: :style margin-left: auto; margin-right: auto;
 [[.\Rendered PNG\Agrippa's magic squares\4x4 - Jupiter=34.png]]
 
-Mars Magic Square
+* Mars Magic Square
 #+ATTR_HTML: :style margin-left: auto; margin-right: auto;
 [[.\Rendered PNG\Agrippa's magic squares\5x5 - Mars=65.png]]
 
-Sun Magic Square
+* Sun Magic Square
 #+ATTR_HTML: :style margin-left: auto; margin-right: auto;
 [[.\Rendered PNG\Agrippa's magic squares\6x6 - Sol=111.png]]
 
-Venus Magic Square
+* Venus Magic Square
 #+ATTR_HTML: :style margin-left: auto; margin-right: auto;
 [[.\Rendered PNG\Agrippa's magic squares\7x7 - Venus=175.png]]
 
-Mercury Magic Square
+* Mercury Magic Square
 #+ATTR_HTML: :style margin-left: auto; margin-right: auto;
 [[.\Rendered PNG\Agrippa's magic squares\8x8 - Mercury=260.png]]
 
-Luna Magic Square
+* Luna Magic Square
 #+ATTR_HTML: :style margin-left: auto; margin-right: auto;
 [[.\Rendered PNG\Agrippa's magic squares\9x9 - Luna=369.png]]
 
+* Best For Last Most Perfect Square
+[[.\Rendered PNG\Most Perfect\12x12 Most Perfect.png]]
