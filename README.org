@@ -17,30 +17,31 @@ much the same way as he first prescribed.
 
 Saturn Magic Square
 #+ATTR_HTML: :style margin-left: auto; margin-right: auto;
-[[\Rendered PNG\Agrippa's magic squares\3x3 - Saturn=15.png]]
+[[.\Rendered PNG\Agrippa's magic squares\3x3 - Saturn=15.png]]
 
 
 Jupiter Magic Square
 #+ATTR_HTML: :style margin-left: auto; margin-right: auto;
-[[\Rendered PNG\Agrippa's magic squares\4x4 - Jupiter=34.png]]
+[[.\Rendered PNG\Agrippa's magic squares\4x4 - Jupiter=34.png]]
 
 Mars Magic Square
 #+ATTR_HTML: :style margin-left: auto; margin-right: auto;
-[[\Rendered PNG\Agrippa's magic squares\5x5 - Mars=65.png]]
+[[.\Rendered PNG\Agrippa's magic squares\5x5 - Mars=65.png]]
 
 Sun Magic Square
 #+ATTR_HTML: :style margin-left: auto; margin-right: auto;
-[[\Rendered PNG\Agrippa's magic squares\6x6 - Sol=111.png]]
+[[.\Rendered PNG\Agrippa's magic squares\6x6 - Sol=111.png]]
 
 Venus Magic Square
 #+ATTR_HTML: :style margin-left: auto; margin-right: auto;
-[[\Rendered PNG\Agrippa's magic squares\7x7 - Venus=175.png]]
+[[.\Rendered PNG\Agrippa's magic squares\7x7 - Venus=175.png]]
 
 Mercury Magic Square
 #+ATTR_HTML: :style margin-left: auto; margin-right: auto;
-[[\Rendered PNG\Agrippa's magic squares\8x8 - Mercury=260.png]]
+[[.\Rendered PNG\Agrippa's magic squares\8x8 - Mercury=260.png]]
 
 Luna Magic Square
 #+ATTR_HTML: :style margin-left: auto; margin-right: auto;
-[[\Rendered PNG\Agrippa's magic squares\9x9 - Luna=369.png]]
+
+.\Rendered PNG\Agrippa's magic squares\9x9 - Luna=369.png
 
